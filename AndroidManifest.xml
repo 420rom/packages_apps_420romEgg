@@ -10,7 +10,7 @@
         android:targetSdkVersion="29" />
 
     <application
-        android:icon="@drawable/ic_settings_device"
+        android:icon="@mipmap/ic_launcher"
         android:label="@string/app_title"
         android:theme="@style/AppTheme">
 	
